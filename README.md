@@ -36,6 +36,6 @@ Overall, this code provides a basic CRUD API for managing books with validation,
 ## Enable the enviroment
 - fastapienv\Scripts\activate
 ## install the dependencies
-- pip install requirements.txt
+- pip install -r requirements.txt
 ## Start the project
 - uvicorn books:app --reload
